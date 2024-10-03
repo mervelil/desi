@@ -57,8 +57,8 @@
 export default {
     data () {
     return {
-      userLoginText: this.userLoginText, // Kullanıcı adınızı buraya ekleyin
-      profilePicture: '', // Profil resmi URL'sini buraya ekleyin
+      userLoginText: this.userLoginText, // Kullanıcı adınızı buraya 
+      profilePicture: '', // Profil resmi URL'sini buraya
       password: this.password,
       languageMenuOpen: false,
       profileMenuOpen: false
